@@ -1,0 +1,2 @@
+echo Hello_from_Lab2 > test-output.txt
+exit

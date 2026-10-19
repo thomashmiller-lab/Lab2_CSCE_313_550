@@ -1,0 +1,2 @@
+myls test-files/permission_test.txt
+exit

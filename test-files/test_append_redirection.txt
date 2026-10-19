@@ -1,0 +1,3 @@
+echo first_line > test-append.txt
+echo second_line >> test-append.txt
+exit

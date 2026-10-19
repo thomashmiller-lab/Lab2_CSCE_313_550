@@ -1,0 +1,2 @@
+mycat test-files/input.txt
+exit

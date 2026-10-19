@@ -1,0 +1,2 @@
+cat < test-files/words.txt | grep apple | wc -l > test-pipe-output.txt
+exit

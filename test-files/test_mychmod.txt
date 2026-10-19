@@ -1,0 +1,3 @@
+mychmod 755 test-files/permission_test.txt
+myls test-files/permission_test.txt
+exit
